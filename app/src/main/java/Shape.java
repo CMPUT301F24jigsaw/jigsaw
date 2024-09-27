@@ -1,3 +1,5 @@
+package jigsaw.app.src.main.java;
+
 public abstract class Shape {
     public int x;
     public int y;
