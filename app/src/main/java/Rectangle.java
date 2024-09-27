@@ -1,6 +1,4 @@
-package jigsaw.app.src.main.java.com.example.jigsaw;
-
-import jigsaw.app.src.main.java.Shape;
+package jigsaw.app.src.main.java;
 
 public class Rectangle extends Shape {
     public Rectangle(int x, int y) {
