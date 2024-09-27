@@ -3,7 +3,7 @@ package jigsaw.app.src.main.java;
 public abstract class Shape {
     public int x;
     public int y;
-    String color = "White";
+    String color = "blue";
     
     public Shape(int x, int y) {
         this.x = x;
